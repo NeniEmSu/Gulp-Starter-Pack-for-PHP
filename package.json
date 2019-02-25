@@ -1,0 +1,31 @@
+{
+  "name": "gulpforphp",
+  "version": "1.0.0",
+  "description": "Live server, sass and gulp task runner for php projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptodoct0r/Gulp-Starter-Pack-for-PHP.git"
+  },
+  "keywords": [
+    "gulp",
+    "browser-sync",
+    "php",
+    "autoreload"
+  ],
+  "author": "Neni Emmanuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptodoct0r/Gulp-Starter-Pack-for-PHP/issues"
+  },
+  "homepage": "https://github.com/cryptodoct0r/Gulp-Starter-Pack-for-PHP#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-connect-php": "^1.0.3",
+    "gulp-sass": "^4.0.2"
+  }
+}
